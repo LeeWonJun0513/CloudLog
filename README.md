@@ -1,2 +1,1 @@
-# CloudLog
-Cloud-based integrated access information record collection and analysis system
+https://github.com/LeeWonJun0513/InjectLogSystem
